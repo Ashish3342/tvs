@@ -1,0 +1,27 @@
+.SubCatalogueImage {
+    background-color: blue;
+    margin-top: 0px;;
+    text-align: center;
+    margin-left: 70px;
+    margin-right: 70px;
+    display: flex;
+}
+
+
+.Image{
+    background-color: rgb(231, 87, 87);
+    width: 150px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    min-width: 150px;
+    min-height: 100px;
+    max-width: 150px;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }

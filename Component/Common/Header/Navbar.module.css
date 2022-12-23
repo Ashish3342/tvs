@@ -1,0 +1,70 @@
+.login{
+  color: rgb(255, 123, 0);
+
+  font-weight: bold;
+}
+.quote{
+  color: rgb(255, 123, 0);
+  font-weight: bold;
+  margin-right: 10px;
+}
+.location{
+  color: rgb(255, 123, 0);
+  font-weight: bold;
+}
+.button{
+  color: rgb(255, 123, 0);
+  font-weight: bold;
+}
+.servicing:hover{
+  color: rgb(255, 123, 0);
+  font-weight: bold;
+  text-decoration: underline;
+  
+}
+.servicing{
+  font-weight: normal;
+}
+.Accessories:hover{
+  
+  color: rgb(255, 123, 0);
+  font-weight: bold;
+  text-decoration: underline;
+}
+.Accessories{
+  font-weight:normal;
+}
+.topnav{
+  display:none;
+
+}
+.search{
+  display: none;
+}
+.button2{
+  display: none;
+}
+
+@media(max-width:572px){
+  .topnav{
+  display:block;
+  text-align: right;
+  margin-left: auto; 
+  margin-right: 10px;
+  
+  
+  }
+  .search{
+    display: block;
+  }
+  .button2{
+    display: block;
+  }
+}
+.img{
+  margin-right: 10px;
+}
+.search{
+  width: 400px;
+}
+

@@ -1,0 +1,32 @@
+.ServiceBanner{
+   
+    background: skyblue;
+    margin: 50px auto;
+    margin-left: 70px;
+    margin-right: 70px;
+    padding: 20px;
+}
+
+.ImageBanner{
+    float: left;
+    background: red;
+    font-weight: bold;
+    color: aliceblue;
+    text-align: center;
+    margin-right: 10px;
+    font-size: 40px;
+    justify-items: center;
+    padding-top: 225px;
+    padding-bottom: 225px;
+}
+
+.ServiceRegisration{
+    float: left;
+    background: green;
+    font-weight: bold;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 225px;
+    padding-bottom: 225px;
+    font-size: 40px;
+}

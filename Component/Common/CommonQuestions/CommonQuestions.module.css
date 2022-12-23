@@ -1,0 +1,29 @@
+
+.QuestionHead{
+    font-size: 20px;
+    color: aliceblue;
+    padding: 10px;
+    
+    /* max-width: 80%; */
+}
+.ViewAll{
+    float: right;
+    color: aliceblue;
+    padding-right: 10px;
+    /* max-width: 15%; */
+}
+.QuesHeader{
+    background-color: blueviolet;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 20px;
+}
+.question{
+    background-color: aqua;
+    padding: 5px;
+    border: solid 1px ;
+}
+.answer{
+    background-color: rgb(255, 0, 17);
+    color: azure;
+}

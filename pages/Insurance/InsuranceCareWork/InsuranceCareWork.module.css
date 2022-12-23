@@ -1,0 +1,35 @@
+
+.CareWorks{
+    background: darkblue;
+    margin-left: 70px;
+    margin-right: 70px;
+    padding: 10px;
+}
+
+.Text{
+    background: white;
+    height: 50px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;    
+}
+
+.PartnerImage{
+    
+    margin: 5px;
+    text-align: center;
+}
+.Image{
+    background-color: antiquewhite;
+    padding-top: 80px;
+    width: 150px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    min-width:150px; 
+    min-height:100px;
+    max-width: 150px;
+    
+}

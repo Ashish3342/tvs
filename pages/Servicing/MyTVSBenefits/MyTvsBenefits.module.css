@@ -1,0 +1,23 @@
+.MyTvsRow{
+    background-color: rgb(172, 224, 28);
+    margin: 4px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 10px;
+}
+
+.MyTvsCol{
+    margin: 5px;
+    background-color: aqua;
+    height: 100px;
+    text-align: center;
+    min-width: 120px; 
+    width: 120px;
+    max-width: 120px;
+} 
+
+.MyTvsCol1{
+    background-color: aqua;
+    height: 100px;
+    margin: 5px;
+}

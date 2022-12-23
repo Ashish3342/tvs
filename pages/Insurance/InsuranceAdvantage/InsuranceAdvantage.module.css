@@ -1,0 +1,35 @@
+
+.InsuranceAdvantage{
+    background: green;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.Retails{
+    float: left;
+    background: red;
+    font-weight: bold;
+    color: aliceblue;
+    text-align: center;
+    margin-right: 10px;
+    font-size: 40px;
+    justify-items: center;
+    padding-top: 125px;
+    padding-bottom: 125px;
+    margin-top: 10px;
+}
+
+.Corporate{
+    float: left;
+    background: hotpink;
+    font-weight: bold;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 125px;
+    padding-bottom: 125px;
+    font-size: 40px;
+    margin-top: 10px;
+}
