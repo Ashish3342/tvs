@@ -1,0 +1,16 @@
+.row{
+    background-color: blue;
+    margin-top: 5px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.col{
+    background-color: azure;
+    margin: 5px;
+    height: 300px;
+    width: 350px;
+    min-width: 350px;
+    max-width: 350px;
+    margin-right: auto;
+    margin-left: auto;
+}

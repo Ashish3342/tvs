@@ -1,0 +1,23 @@
+.row1{
+    margin-left: 60px;
+    margin-right: 60px;
+    background-color: blanchedalmond;
+    padding: 5px;
+    
+}
+.col{
+    background-color: blueviolet;
+    text-align: left;
+    color: beige;
+   
+}
+.col2{ 
+    text-align: center;
+}
+.col1{
+    background-color: aqua;
+    width: 200px;
+    margin: 5px;
+    max-width: 200px;
+    min-width: 200px;
+}

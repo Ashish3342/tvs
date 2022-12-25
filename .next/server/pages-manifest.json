@@ -2,5 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/Servicing/Servicing": "pages/Servicing/Servicing.js"
+  "/Servicing/Servicing": "pages/Servicing/Servicing.js",
+  "/": "pages/index.js"
 }
